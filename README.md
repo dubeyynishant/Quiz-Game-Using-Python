@@ -1,2 +1,2 @@
-# codsoft_task.5
+# Quiz_game_using_Python
 Quiz game
